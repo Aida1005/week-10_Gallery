@@ -8,6 +8,7 @@ let result = function() {
 }()
 console.log(result);
 
+
 //Task #2
 let offset = 0;
 const sliderLine = document.querySelector('.slider-line');
