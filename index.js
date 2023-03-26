@@ -3,7 +3,10 @@
 const myFunction = () => console.log ('Я учу JavaScript!');
 myFunction ();
 
-
+let result = function() {
+    return'Я учу JavaScript!';
+}()
+console.log(result);
 
 //Task #2
 let offset = 0;
