@@ -27,7 +27,7 @@ sliderLine.style.left = -offset + 'px';
 
 
 
-//Task #3 with star
+//Task #3 with stars
 
 let year = 2023;
 if (((year % 4 == 0) && (year % 100 != 0)) || (year % 400 == 0)) {
